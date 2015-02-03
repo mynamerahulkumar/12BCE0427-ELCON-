@@ -1,0 +1,51 @@
+               1>                Election Management System
+	       A-we will provide security according sensitive area.
+	       B-Online details of EVM machine security
+	       C-we will have the record of each booth.we make sure that no police  officer shoul placed in their residential.
+	       Reshuffling officer duty and their responsibility according to their post.
+
+
+
+
+
+	       2>OBJECTIVE
+	       In the democratic country like India the government only depends upon the voting poles and to manage the voting system is a very difficult job. For a well and clean voting in the country a well management system is needed. So it is much necessary that the person伍西s involved in conducting the election should not have their monopoly in their area of working and residence. So that they can伍西t influence the voting.
+	       Name:Rahul Kumar
+	       Reg-12BCE0427
+
+
+
+	       3>FEASIBILITY
+
+	       I will use UML, J2EE, XML, e-Forms, AJAX, Web 2.0, Web-services, SOA
+	       To imlemnet my website within time frame
+	       Function :
+	       i.	The details about the related constituencies of the district. 
+	       ii.	 The details about the polling booths in the respective constituency such as normal booths, sensitive booths, hyper sensitive booths.
+	       iii.	The details of the EVM Machine is fed into the computer.
+	       iv.	The details about the polling officers whom the duties will be given to conduct the efficient voting at the polling booths. The Polling officers will be assigned duties according to their designation and pay scale. The polling officers will be Presiding Officer, 1st Polling Officer, 2nd Polling Officer and 3rd Polling Officer respectively according to their ranks. 
+	       v.	v. After the Randomization by the observer the final reporting letter for the Polling officers will be generated and distributed to the respective Polling officers.
+
+
+	       4>PROCESS MODEL
+	       Waterfall Model
+	       The model whice I am going to implement is Waterfall model.Since everything is with clear specification we don伍西t have to mention anything new .so we know all the requirement of our project.
+	       Spiral model
+	       Spiral model-When implement new technplogy we will implement spiral technology.Since our project is straight forward so we don伍西t need to use spiral model
+	       Evolutionary Government
+	       Since our requirement are clear and complete.so wont go for evolutionary management.
+
+
+
+
+
+
+	       5>DELIVERABLES
+	       Results:
+	       i.	The details about the related constituencies of the district. 
+	       ii.	 The details about the polling booths in the respective constituency such as normal booths, sensitive booths, hyper sensitive booths.
+	       The details of the EVM Machine is fed into the computer.
+	       Platform:
+	       UML, J2EE, XML, e-Forms, AJAX, Web 2.0, Web-services,Eclipse/ RAD / Lotus Forms Designer / Portlet Factory
+
+
